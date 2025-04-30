@@ -1,6 +1,6 @@
 # 🖥️ Portfolio - Desenvolvido com Aulas da Alura
 
-![Preview do projeto](https://i.imgur.com/enOZc3F.png)
+![Preview do projeto](https://i.imgur.com/7pGMjtS.png)
 
 Este repositório apresenta o **Portfolio** desenvolvido como parte do aprendizado nas aulas de HTML e CSS da plataforma **Alura**. O projeto visa criar uma página pessoal que reflete os conhecimentos adquiridos durante o curso.
 
